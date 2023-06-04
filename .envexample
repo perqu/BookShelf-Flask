@@ -1,0 +1,5 @@
+SECURE_KEY = ""
+
+DEBUG = 
+
+SQL = ""

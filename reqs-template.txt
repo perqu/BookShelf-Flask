@@ -1,0 +1,10 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+Jinja2
+pytest
+requests
+SQLAlchemy
+python-dotenv
+Flask-Migrate
+mysqlclient

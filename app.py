@@ -15,7 +15,6 @@ api = Api(app)
 
 app.config["SQLALCHEMY_DATABASE_URI"] = os.getenv("SQL")
 
-
 db = SQLAlchemy(app)
 migrate = Migrate(app, db)
 

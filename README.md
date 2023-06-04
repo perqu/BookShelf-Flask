@@ -1,7 +1,9 @@
+[![Bookshelf CI](https://github.com/perqu/Bookshelf-Flask/actions/workflows/Bookshelf%20-%20Flask.yml/badge.svg)](https://github.com/perqu/Bookshelf-Flask/actions/workflows/Bookshelf%20-%20Flask.yml)
+
 <h1 align="center">BookShelf Flask</h1>
 
-
 <p align="center">
+
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/perqu/bookshelf-flask?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/perqu/bookshelf-flask?color=56BEB8">
@@ -17,13 +19,7 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/perqu/bookshelf---flask?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center">
-	🚧  BookShelf   Flask 🚀 Under construction...  🚧
-</h4>
-
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
